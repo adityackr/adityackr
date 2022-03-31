@@ -1,5 +1,5 @@
 # 💫About Me :
-🔭 I am currently working with myself
+🔭 I am currently working with myself  
 🌱 I am currently learning JavaScript
 
 
