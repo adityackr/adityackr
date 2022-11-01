@@ -160,6 +160,12 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityackr&layout=compact&theme=algolia" alt="adityackr" /></a> </p>
 
+<br/>
+
+#### :books: Recent Blog Posts
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
+
 -----
 Credits: [adityackr](https://github.com/adityackr)
 
