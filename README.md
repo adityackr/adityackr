@@ -164,7 +164,11 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 🔥 [Discrete Mathematics - 3.5 - Greedy Algorithms](https://stacklearner.com/discrete-mathematics-35-greedy-algorithms)
+ - 💯 [Discrete Mathematics - 3.4 - String Matching](https://stacklearner.com/discrete-mathematics-34-string-matching)
+ - 💯 [Lecture 50 - Track Zone Project | Reusable Clock Form](https://stacklearner.com/lecture-50-track-zone-project-reusable-clock-form)
+ - 💫 [Lecture 49 - Track Zone Project | Display and Edit Local Time](https://stacklearner.com/lecture-49-track-zone-project-display-and-edit-local-time)
+ - 🔥 [Discrete Mathematics - 3.3 - Sorting Algorithms](https://stacklearner.com/discrete-mathematics-33-sorting-algorithms)<!-- BLOGPOSTS:END -->
 
 -----
 Credits: [adityackr](https://github.com/adityackr)
