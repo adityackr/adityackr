@@ -164,11 +164,9 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Mvc কি? কেন এটি অন্যান্য আর্কিটেকচার গুলো থেকে আলাদা?](https://stacklearner.com/mvc)
- - 💯 [Lecture 52 - Track zone project | create events functionality and useTimer hook](https://stacklearner.com/lecture-52-track-zone-project-create-events-functionality-and-usetimer-hook)
- - 💯 [Lecture 51 - Track Zone Project | Create, Edit &amp; List Custom Clock](https://stacklearner.com/lecture-51-track-zone-project-create-edit-list-custom-clock)
- - 💫 [Discrete Mathematics - 3.5 - Greedy Algorithms](https://stacklearner.com/discrete-mathematics-35-greedy-algorithms)
- - 🔥 [Discrete Mathematics - 3.4 - String Matching](https://stacklearner.com/discrete-mathematics-34-string-matching)<!-- BLOGPOSTS:END -->
+ - 🔥 [Thunder Client &lpar;Postman এর বিকল্প&rpar;](https://aditya-blogs.hashnode.dev/thunder-client)
+ - 💯 [Expression vs. Statement](https://aditya-blogs.hashnode.dev/expression-vs-statement)
+ - 💯 [ডকুমেন্টেশন পড়ার গুরুত্ব](https://aditya-blogs.hashnode.dev/importance-of-documentation)<!-- BLOGPOSTS:END -->
 
 -----
 Credits: [adityackr](https://github.com/adityackr)
