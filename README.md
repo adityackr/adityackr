@@ -164,11 +164,11 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [আইপি অ্যাড্রেস &lpar;IP Address&rpar; কি? IP Address কিভাবে কাজ করে?](https://stacklearner.com/what-is-ip-address)
- - 💯 [&quot;i++&quot;/&quot;++i&quot; অথবা &quot;i--&quot;/&quot;--i&quot; এসব কি? কেন, কোথায়, এবং কিভাবে এসব ব্যবহার করা হয়?](https://stacklearner.com/preincrement-postincrement-predecrement-postdecrement)
- - 💯 [Mvc কি? কেন এটি অন্যান্য আর্কিটেকচার গুলো থেকে আলাদা?](https://stacklearner.com/mvc)
- - 💫 [Lecture 52 - Track zone project | create events functionality and useTimer hook](https://stacklearner.com/lecture-52-track-zone-project-create-events-functionality-and-usetimer-hook)
- - 🔥 [Lecture 51 - Track Zone Project | Create, Edit &amp; List Custom Clock](https://stacklearner.com/lecture-51-track-zone-project-create-edit-list-custom-clock)<!-- BLOGPOSTS:END -->
+ - 🔥 [How To Configure MUI Theme with Next.js App Router](https://aditya-blogs.hashnode.dev/configure-mui-theme-with-nextjs-app-router)
+ - 💯 [কলব্যাক ফাংশন - কি, কেন, কিভাবে?](https://aditya-blogs.hashnode.dev/js-callback)
+ - 💯 [Unit and Integration Testing with Vitest and React Testing Library](https://aditya-blogs.hashnode.dev/unit-and-integration-testing-with-vitest-and-react-testing-library)
+ - 💫 [Thunder Client &lpar;Postman এর বিকল্প&rpar;](https://aditya-blogs.hashnode.dev/thunder-client)
+ - 🔥 [Expression vs. Statement](https://aditya-blogs.hashnode.dev/expression-vs-statement)<!-- BLOGPOSTS:END -->
 
 -----
 Credits: [adityackr](https://github.com/adityackr)
