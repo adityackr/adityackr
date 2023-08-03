@@ -164,11 +164,11 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [How To Configure MUI Theme with Next.js App Router](https://aditya-blogs.hashnode.dev/configure-mui-theme-with-nextjs-app-router)
- - 💯 [কলব্যাক ফাংশন - কি, কেন, কিভাবে?](https://aditya-blogs.hashnode.dev/js-callback)
- - 💯 [Unit and Integration Testing with Vitest and React Testing Library](https://aditya-blogs.hashnode.dev/unit-and-integration-testing-with-vitest-and-react-testing-library)
- - 💫 [Thunder Client &lpar;Postman এর বিকল্প&rpar;](https://aditya-blogs.hashnode.dev/thunder-client)
- - 🔥 [Expression vs. Statement](https://aditya-blogs.hashnode.dev/expression-vs-statement)<!-- BLOGPOSTS:END -->
+ - 🔥 [Lecture 54 - Clean YouTube Project | Custom Hook and API Call](https://stacklearner.com/lecture-54-clean-youtube-project-custom-hook-and-api-call)
+ - 💯 [Lecture 53 - Introduction to Material UI](https://stacklearner.com/lecture-53-introduction-to-material-ui)
+ - 💯 [How to Clone An Array in JavaScript](https://stacklearner.com/how-to-clone-an-array-in-javascript)
+ - 💫 [আইপি অ্যাড্রেস &lpar;IP Address&rpar; কি? IP Address কিভাবে কাজ করে?](https://stacklearner.com/what-is-ip-address)
+ - 🔥 [&quot;i++&quot;/&quot;++i&quot; অথবা &quot;i--&quot;/&quot;--i&quot; এসব কি? কেন, কোথায়, এবং কিভাবে এসব ব্যবহার করা হয়?](https://stacklearner.com/preincrement-postincrement-predecrement-postdecrement)<!-- BLOGPOSTS:END -->
 
 -----
 Credits: [adityackr](https://github.com/adityackr)
