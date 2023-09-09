@@ -164,11 +164,11 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [How To Configure MUI Theme with Next.js App Router](https://aditya-blogs.hashnode.dev/configure-mui-theme-with-nextjs-app-router)
- - 💯 [কলব্যাক ফাংশন - কি, কেন, কিভাবে?](https://aditya-blogs.hashnode.dev/js-callback)
- - 💯 [Unit and Integration Testing with Vitest and React Testing Library](https://aditya-blogs.hashnode.dev/unit-and-integration-testing-with-vitest-and-react-testing-library)
- - 💫 [Thunder Client &lpar;Postman এর বিকল্প&rpar;](https://aditya-blogs.hashnode.dev/thunder-client)
- - 🔥 [Expression vs. Statement](https://aditya-blogs.hashnode.dev/expression-vs-statement)<!-- BLOGPOSTS:END -->
+ - 🔥 [Dynamic Programming কি?](https://stacklearner.com/dynamic-programming-intro)
+ - 💯 [Lecture 58 - Random Discussion and React SEO](https://stacklearner.com/lecture-58-random-discussion-and-react-seo)
+ - 💯 [Lecture 57 | Understand Application States - Importance of Redux](https://stacklearner.com/lecture-57-understand-application-states-importance-of-redux)
+ - 💫 [Lecture 56 - Clean YouTube Project | React Router Dom and API Bug Fixing](https://stacklearner.com/lecture-56-clean-youtube-project-react-router-dom-and-api-bug-fixing)
+ - 🔥 [Lecture 55 - Clean YouTube Project | Display a List of Playlists](https://stacklearner.com/lecture-55-clean-youtube-project-display-a-list-of-playlists)<!-- BLOGPOSTS:END -->
 
 -----
 Credits: [adityackr](https://github.com/adityackr)
