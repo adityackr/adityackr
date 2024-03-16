@@ -164,11 +164,11 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [useRef এর আদ্যোপান্ত](https://stacklearner.com/useref)
- - 💯 [useEffect এর আদ্যোপান্ত](https://stacklearner.com/useeffect)
- - 💯 [Explain DOCTYPE in html - Interview Question](https://stacklearner.com/explain-doctype-in-html-interview-question)
- - 💫 [Editor, Compiler, Runtime, git, etc Setup guidelines for Beginners](https://stacklearner.com/editor-compiler-runtime-git-etc-setup-guidelines-for-beginners)
- - 🔥 [Dynamic Programming কি?](https://stacklearner.com/dynamic-programming-intro)<!-- BLOGPOSTS:END -->
+ - 🔥 [How To Configure MUI Theme with Next.js App Router](https://aditya-blogs.hashnode.dev/configure-mui-theme-with-nextjs-app-router)
+ - 💯 [কলব্যাক ফাংশন - কি, কেন, কিভাবে?](https://aditya-blogs.hashnode.dev/js-callback)
+ - 💯 [Unit and Integration Testing with Vitest and React Testing Library](https://aditya-blogs.hashnode.dev/unit-and-integration-testing-with-vitest-and-react-testing-library)
+ - 💫 [Thunder Client &lpar;Postman এর বিকল্প&rpar;](https://aditya-blogs.hashnode.dev/thunder-client)
+ - 🔥 [Expression vs. Statement](https://aditya-blogs.hashnode.dev/expression-vs-statement)<!-- BLOGPOSTS:END -->
 
 -----
 Credits: [adityackr](https://github.com/adityackr)
