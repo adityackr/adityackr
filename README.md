@@ -15,7 +15,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Mechanical Engineer`, graduated from Chittagong University of Engineering and Technology (CUET)
+- :school: I am a `Frontend Developer`
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Programming` and `Web Development`.
 - :nerd_face: Always `learning new things`
