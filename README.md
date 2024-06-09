@@ -164,11 +164,11 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Introduction to Time and Space Complexity](https://stacklearner.com/time-and-space-complexity)
- - 💯 [মডার্ন টেকনোলজির ব্যাকবোন: ব্যাকএন্ড সিস্টেম](https://stacklearner.com/backend-system)
- - 💯 [JavaScript Strict Mode](https://stacklearner.com/javascript-strict-mode)
- - 💫 [useState এর আদ্যোপান্ত](https://stacklearner.com/usestate)
- - 🔥 [Let&#39;s Build a Better API: Common Mistakes to Avoid](https://stacklearner.com/rest-api-design-best-practices)<!-- BLOGPOSTS:END -->
+ - 🔥 [How To Configure MUI Theme with Next.js App Router](https://aditya-blogs.hashnode.dev/configure-mui-theme-with-nextjs-app-router)
+ - 💯 [কলব্যাক ফাংশন - কি, কেন, কিভাবে?](https://aditya-blogs.hashnode.dev/js-callback)
+ - 💯 [Unit and Integration Testing with Vitest and React Testing Library](https://aditya-blogs.hashnode.dev/unit-and-integration-testing-with-vitest-and-react-testing-library)
+ - 💫 [Thunder Client &lpar;Postman এর বিকল্প&rpar;](https://aditya-blogs.hashnode.dev/thunder-client)
+ - 🔥 [Expression vs. Statement](https://aditya-blogs.hashnode.dev/expression-vs-statement)<!-- BLOGPOSTS:END -->
 
 -----
 Credits: [adityackr](https://github.com/adityackr)
