@@ -8,17 +8,18 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=adityackr&label=Profile%20views&color=0e75b6&style=plastic" alt="adityackr" /> 
-	<a href = "https://commits.top/bangladesh.html" target="_blank">
-		<img src="https://enx6k5e0wh6seuv.m.pipedream.net/&style=plastic" alt="adityackr" target="_blank"/> 
+	<a href="https://commits.top/bangladesh.html" target="_blank">
+		<img src="https://commits.top/bangladesh_public.svg" alt="Top Committer in Bangladesh" /> 
 	</a>	
 </p>
 
 
-## :sassy_man:  About me
-- :school: I am a `Frontend Developer`
-- :technologist: I love using Software as a solution for every `Problem`
-- :student: I’m currently learning: `Programming` and `Web Development`.
-- :nerd_face: Always `learning new things`
+## 🙋‍♂️ About me
+- 🎓 I am a passionate **Frontend Developer**
+- 💻 I love using Software as a solution for every **Problem**
+- 📚 I'm currently learning: **Modern Web Development** and **JavaScript Frameworks**
+- 🧠 Always **learning new things** and staying up-to-date with tech trends
+- 🚀 Passionate about creating user-friendly and responsive web applications
 
 <br>
 
@@ -42,11 +43,17 @@
 
 ## 🤝 Connect with me
 <p align="center">
-	<a href="mailto:acborty1991@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:acborty1991@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	&emsp;
 	<a href="https://github.com/adityackr"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	&emsp;
 	<a href="https://www.linkedin.com/in/aditya-cuet/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	&emsp;
 	<a href="https://www.facebook.com/adityackr09"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	&emsp;
 	<a href="https://www.instagram.com/adityackr09/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	&emsp;
+	<a href="https://aditya-blogs.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=plastic&logo=hashnode&logoColor=white" alt="Blog"/></a>
 </p>
 
 
@@ -61,6 +68,14 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
+  &emsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
+   </a>
+  &emsp;
+  <a href="https://www.python.org" target="_blank"> 
+     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+   </a>
 </p>
 
 ### 👉 Frontend Development
@@ -72,6 +87,18 @@
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://reactjs.org/" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB">
+  </a>
+  &emsp;
+  <a href="https://nextjs.org/" target="_blank">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js%20-%23000000.svg?style=plastic&logo=next.js&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind%20CSS%20-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white">
   </a>
 </p>
 
@@ -91,7 +118,13 @@
   &emsp;
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+    <a href="#"><img alt="JSON" src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white"></a>
 </p>
 
  ### 👉 IDEs
@@ -99,6 +132,10 @@
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/webstorm-143?style=plastic&logo=webstorm&logoColor=white&color=black"></a>
+  &emsp;
+    <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=plastic&logo=sublime-text&logoColor=important"></a>
 </p>
 
 <!--  ### 👉 Competitive Programming & Problem Solving
@@ -118,6 +155,21 @@
     <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p> -->
 
+ ### 👉 Database & Backend
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase"></a>
+</p>
+
  ### 👉 Operating Systems
  
 <p align="center">
@@ -133,8 +185,7 @@
 
 ## 📊 Github Stats
 
-
-
+<details>
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
@@ -147,11 +198,14 @@
   </p>
 
 ----
+</details>
 
+<details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/adityackr"><img alt="adityackr's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adityackr&custom_title=adityackr's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
+</details>
 
 
 <br/>
@@ -173,4 +227,4 @@
 -----
 Credits: [adityackr](https://github.com/adityackr)
 
-Last Edited on: 02/04/2022
+Last Edited on: 30/12/2024
