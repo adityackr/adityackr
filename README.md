@@ -1,176 +1,157 @@
-<h1 align="center">Hi , I'm Aditya Chakraborty <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Hey, I'm Aditya! 👋
+
+### Frontend Engineer · React · Next.js · TypeScript
+
+**I turn ideas into thoughtful digital experiences.**
+
+I'm a frontend engineer passionate about building modern, scalable, and user-friendly web applications. I enjoy solving real-world problems, exploring new technologies, and turning complex ideas into simple, intuitive experiences.
+
+I believe great software isn't just about how it works — it's also about how it feels to use.
+
+- 💻 Building modern web applications with **React, Next.js & TypeScript**
+- 🚀 Developing production-ready features used by thousands of users
+- 🎨 Passionate about UI engineering, frontend architecture & performance
+- 🧩 Love building useful products and developer tools
+- 🌱 Always learning, experimenting, and building something new
+- 🤝 Open to interesting projects, open-source collaboration, and meaningful conversations
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Self-Learner;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
-
-
-<br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=adityackr&label=Profile%20views&color=0e75b6&style=plastic" alt="adityackr" /> 
-	<a href = "https://commits.top/bangladesh.html" target="_blank">
-		<img src="https://enx6k5e0wh6seuv.m.pipedream.net/&style=plastic" alt="adityackr" target="_blank"/> 
-	</a>	
-</p>
-
-
-## :sassy_man:  About me
-- :school: I am a `Frontend Developer`
-- :technologist: I love using Software as a solution for every `Problem`
-- :student: I’m currently learning: `Programming` and `Web Development`.
-- :nerd_face: Always `learning new things`
-
-<br>
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adityackr&theme=algolia" alt="adityackr" /></p>
-
-<br>
-<br>
-
-
-<!-- ## 👀 My Competitive Programming Profiles -->
-
-<!-- <p align="center">
-  <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://leetcode.com/7oSkaa/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://atcoder.jp/users/ahmed_7oSkaa"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder"/></a>
-	<a href="https://www.codechef.com/users/ahmed_7oskaa"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
-	<a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global"/></a>     
-	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
-</p> -->
-
-## 🤝 Connect with me
-<p align="center">
-	<a href="mailto:acborty1991@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/adityackr"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/aditya-cuet/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/adityackr09"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/adityackr09/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
-
-
-
-
-## 🛠️ My Skills
-
-### 👉 Programming languages
-
-<p align="center"> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-</p>
-
-### 👉 Frontend Development
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+  <a href="https://adityackr.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.facebook.com/aditya09036/">
+  	<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-cuet/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/adityackr">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
- ### 👉 Software & Tools
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+---
+
+## 🛠️ Tech Stack & Tools
+
+Technologies and tools I use to bring ideas to life.
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" alt="Frontend technologies" />
 </p>
 
- ### 👉 IDEs
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+### State Management & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
 </p>
 
-<!--  ### 👉 Competitive Programming & Problem Solving
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
-  &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-  &emsp;
-    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
-</p> -->
+**Also working with:** Zustand, REST APIs, Axios, Fetch API, tRPC, oRPC, React Hook Form.
 
- ### 👉 Operating Systems
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+### Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,nodejs,bun,pnpm,vscode,figma" alt="Development tools" />
 </p>
 
-<br/>
+**Also familiar with:** Jest, React Testing Library, Storybook, Turborepo, CI/CD, and modern frontend build tools.
 
-## 📊 Github Stats
+---
 
+## 🚀 Featured Projects
 
+I enjoy turning everyday problems into useful software. Here are some products and tools I've built along the way.
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="adityackr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adityackr&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-<!-- 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityackr&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="adityackr" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
-  </p>
+### 🎯 [Focusy](https://github.com/adityackr/focusy)
 
-----
+**One place for learning and focus.**
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/adityackr"><img alt="adityackr's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adityackr&custom_title=adityackr's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+Why switch between multiple applications when you can bring them together?
 
+Focusy combines the experiences of Chapterly and FocusTube into one unified application, making video-based learning and focused productivity easier.
 
-<br/>
+### 📚 [Chapterly](https://github.com/adityackr/chapterly)
 
-## :trophy: Git profile Trophies
+**Turn YouTube videos into structured learning experiences.**
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityackr&layout=compact&theme=algolia" alt="adityackr" /></a> </p>
+Paste a YouTube video link and transform it into chapter-based lessons using video timestamps. Learn at your own pace and navigate educational content more effectively.
 
-<br/>
+### 📺 [FocusTube](https://github.com/adityackr/focustube)
 
-#### :books: Recent Blog Posts
-<!-- BLOGPOSTS:START -->
- - 🔥 [How To Configure MUI Theme with Next.js App Router](https://aditya-blogs.hashnode.dev/configure-mui-theme-with-nextjs-app-router)
- - 💯 [কলব্যাক ফাংশন - কি, কেন, কিভাবে?](https://aditya-blogs.hashnode.dev/js-callback)
- - 💯 [Unit and Integration Testing with Vitest and React Testing Library](https://aditya-blogs.hashnode.dev/unit-and-integration-testing-with-vitest-and-react-testing-library)
- - 💫 [Thunder Client &lpar;Postman এর বিকল্প&rpar;](https://aditya-blogs.hashnode.dev/thunder-client)
- - 🔥 [Expression vs. Statement](https://aditya-blogs.hashnode.dev/expression-vs-statement)<!-- BLOGPOSTS:END -->
+**Watch what matters. Skip the distractions.**
 
------
-Credits: [adityackr](https://github.com/adityackr)
+A focused YouTube viewing experience designed to help you spend less time navigating distractions and more time watching the content you actually want.
 
-Last Edited on: 02/04/2022
+### 🧵 [KettleStitch](https://github.com/adityackr/kettlestitch)
+
+**Another idea brought to life.**
+
+One of my independent projects, built as part of my journey of experimenting, learning, and creating useful software.
+
+### 🧩 [Smart Wrapper](https://github.com/adityackr/smart-wrapper-vscode-extension)
+
+**Small tool. Smoother coding workflow.**
+
+A Visual Studio Code extension designed to make working with code wrappers easier and more convenient for developers.
+
+<p align="center">
+  <a href="https://github.com/adityackr?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub at a Glance
+
+## 📊 GitHub at a Glance
+
+<p align="center">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=adityackr&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Aditya's GitHub statistics" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=adityackr&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="./profile/streak.svg" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 💡 A Little More About Me
+
+Beyond writing code, I'm someone who enjoys learning, experimenting, and sharing ideas.
+
+- 🧠 I enjoy exploring frontend architecture and software design patterns.
+- 🔍 I love understanding how things work under the hood.
+- 🛠️ I prefer building real products over just following tutorials.
+- 🌍 I believe open-source software makes the developer community stronger.
+- ☕ Always ready for a good technical discussion.
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always happy to connect with developers, designers, and people who love building things.
+
+Whether it's discussing a technical idea, collaborating on an open-source project, or simply exchanging experiences, feel free to reach out.
+
+<p align="center">
+  <a href="https://adityackr.vercel.app">
+    <img src="https://img.shields.io/badge/Website-adityackr.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.facebook.com/aditya09036/">
+  	<img src="https://img.shields.io/badge/Facebook-Aditya%20Chakraborty-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-cuet/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Chakraborty-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/adityackr">
+    <img src="https://img.shields.io/badge/GitHub-adityackr-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Thanks for stopping by! Happy coding. 🚀</b>
+</p>
