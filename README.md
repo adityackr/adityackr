@@ -106,8 +106,6 @@ A Visual Studio Code extension designed to make working with code wrappers easie
 
 ## 📊 GitHub at a Glance
 
-## 📊 GitHub at a Glance
-
 <p align="center">
   <img height="180" src="https://github-stats-extended.vercel.app/api?username=adityackr&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Aditya's GitHub statistics" />
   <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=adityackr&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" />
